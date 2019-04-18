@@ -1,11 +1,10 @@
 [
   {
-    "filename": "areaChart.js"
+    "filename": "areaChart.js",
+    "title": "Area Chart"
   },
   {
-    "filename": "barChart.js"
-  },
-  {
-    "filename": "demoEditor.js"
+    "filename": "barChart.js",
+    "title": "Bar Chart"
   }
 ]
